@@ -3,3 +3,7 @@ A Discord Bot Written In C# Using Discord.NET ~ Designed To Help People / Inspir
 
 
 ![alt text](https://cdn.discordapp.com/attachments/726031534389329971/726032810678288384/unknown.png)
+![alt text](https://cdn.discordapp.com/attachments/726031534389329971/726033675623596052/unknown.png)
+
+
+
